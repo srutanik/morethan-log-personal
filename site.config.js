@@ -10,11 +10,7 @@ const CONFIG = {
     github: "srutanik",
     instagram: "srutanik",
   },
-  projects: [
-    {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
-    },
+  projects: ['coming soon!',
   ],
   // blog setting (required)
   blog: {
